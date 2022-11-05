@@ -53,7 +53,7 @@ conn.sendButtonDoc(m.chat, '▷ʙᴏᴛ sᴛᴀᴛᴜs◁', sts, 'Owner', '.owne
     title: "Iɴɪ Fᴀᴄᴇʙᴏᴏᴋ Gᴡ!",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
-    sourceUrl: 'https://facebook.com/sadtime098'
+    sourceUrl: 'https://instagram.com/fahrizyxx'
      }}
   })
 
