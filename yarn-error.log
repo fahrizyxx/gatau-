@@ -1,5 +1,5 @@
 Arguments: 
-  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js
+  /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/share/yarn/bin/yarn.js install
 
 PATH: 
   /data/data/com.termux/files/usr/bin
@@ -8,19 +8,19 @@ Yarn version:
   1.22.19
 
 Node version: 
-  18.7.0
+  18.10.0
 
 Platform: 
   android arm64
 
 Trace: 
-  Error: EPERM: operation not permitted, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/BOT/fix-bot-v1/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
+  Error: EACCES: permission denied, symlink '../../../../pino/bin.js' -> '/storage/emulated/0/alok/node_modules/@adiwajshing/baileys/node_modules/.bin/pino'
 
 npm manifest: 
   {
-      "name": "wh-mods-dev",
+      "name": "Aldiaisyah",
       "version": "3.0.0",
-      "description": "WhatsApp BOT By wahid",
+      "description": "WhatsApp BOT By Aldi",
       "main": "index.js",
       "type": "module",
       "directories": {
@@ -39,22 +39,18 @@ npm manifest:
           "whatsapp",
           "js-whatsapp",
           "whatsapp",
-          "Games-wabot",
-          "wabot-aq",
-          "multi-device",
-          "MD",
-          "baileys-md"
+          "wabot-aq"
       ],
-      "homepage": "https://github.com/WH-MODS-BOT/fix-bot-v1",
+      "homepage": "https://github.com/hyuura-official",
       "author": {
-          "name": "WH-MODS-BOT"
+          "name": "Aldi"
       },
       "repository": {
           "type": "git",
-          "url": "git+https://github.com/WH-MODS-BOT/fix-bot-v1"
+          "url": "git+https://github.com/hyuura-official"
       },
       "bugs": {
-          "url": "https://github.com/WH-MODS-BOT/fix-bot-v1/"
+          "url": "https://github.com/hyuura-official"
       },
       "license": "GPL-3.0-or-later",
       "dependencies": {
