@@ -68,8 +68,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Hyuura-Official/YushinoMdV3
-cd YushinoMdV3
+git clone https://github.com/fahrizyxx/gatau-
+cd gatau-
 npm install
 npm update
 ```
