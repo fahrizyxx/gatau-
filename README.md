@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Hyuura-Official/YushinoMdV3
-cd YushinoMdV3
+git https://github.com/fahrizyxx/gatau-
+cd gatau-
 npm install
 npm update
 ```
@@ -112,8 +112,8 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 :  𝘔𝘶𝘩𝘢𝘮𝘮𝘢𝘥 𝘋𝘦𝘯𝘯𝘺 𝘍𝘢𝘩𝘳𝘪
+𝐖𝐚 : 081269519696
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -143,6 +143,7 @@ node .
 ⭝ 𝑭𝒂𝑱𝒂𝒓
 ⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
+⭝ 𝐅𝐚𝐡𝐫𝐢𝐳𝐲𝐱𝐱
 ⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝑻𝒐𝒏
 ```
