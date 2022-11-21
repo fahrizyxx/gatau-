@@ -4,16 +4,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     let res = (await axios.get(API('males', '/tiktok', { url: args[0] } ))).data;
     if (res.status != 200) throw res.message;
     if (!res) throw res.message;
-  }
-   conn.sendButtonDoc(m.chat, `▰▰▰▱▱▱▱▱`, 'Wait', 'Owner', '.owner', m, { contextInfo: { externalAdReply: {
-title: 'Hᴀʟᴏ' + name,
-body: wm, 
-thumbnail: fs.readFileSync("./thumbnail.jpg"),
-mediaType:1,
-mediaUrl: "https://telegra.ph/file/1216a636cb2add65a34ae.jpg",
-sourceUrl: snh 
-}}})
-}
     
     let result = `⟐⟞⟚⟝⟮ *Title:* ⟯⟞⟚⟝⟐
 ┇⟣⟪ ${res.title} ⟫⟢
